@@ -1,15 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to suBLAM!
 ---
 
-Here is some **markdown**.
-
-Here is some code:
-
-```ruby
-class Foo
-  def bar
-    puts "Hello blog"
-  end
-end
-```
+This is the front page. There are posts below. Probably should put some content here.
